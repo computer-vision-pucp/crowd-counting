@@ -38,7 +38,7 @@ Este repositorio contiene el código fuente para entrenar los tres modelos compa
 
 ### :page_facing_up: Requerimientos
 
-* Python 3.8, Pytorch, Open CV, Numpy, Pandas, Myplotlib.
+* Python 3.7, Pytorch, Open CV, Numpy, Pandas, Myplotlib.
 * Entornos recomendados:
     - JupyterLab.
     - Google Colaboratory.
